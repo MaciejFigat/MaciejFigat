@@ -18,3 +18,9 @@
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat" />
   <img alt="JSONWebTokens" src="https://img.shields.io/badge/JSON Web Tokens-000000?logo=json-web-tokens&logoColor=white&style=flat" />
 </p>
+
+#### You can also find me on the following media:
+<p>
+<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" />
+<img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white&style=flat" />
+</p>
