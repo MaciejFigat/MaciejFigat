@@ -16,5 +16,5 @@
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat" />
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat" />
-  <img alt="JSONWebTokens" src="https://img.shields.io/badge/JSON Web Tokens-000000?logo=JSON Web Tokens&logoColor=white&style=flat" />
+  <img alt="JSONWebTokens" src="https://img.shields.io/badge/JSON Web Tokens-000000?logo=JSONWebTokens&logoColor=white&style=flat" />
 </p>
