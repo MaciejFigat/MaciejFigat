@@ -1,4 +1,4 @@
-### "Highly capable, dependant, surefooted, strong, agile and driven individual." - My friends cheering me on.
-_Edit: I forgot modest._
+### "Highly capable, dependant, surefooted, strong, agile and driven individual." 
+_My friends from BJJ class._
 
 
