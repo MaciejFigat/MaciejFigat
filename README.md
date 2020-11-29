@@ -2,7 +2,9 @@
 
 #### "Highly capable, surefooted, strong, agile and driven individual." 
 ##### _- My friends from BJJ class._
+
 ---
+
 #### Technologies and tools used in recent projects:
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
@@ -19,6 +21,7 @@
   <img alt="JSONWebTokens" src="https://img.shields.io/badge/JSON Web Tokens-000000?logo=json-web-tokens&logoColor=white&style=flat" />
 </p>
 ---
+
 #### You can also find me on the following media:
 <p>
 <a href='https://www.linkedin.com/in/maciej-figat/'>
@@ -29,6 +32,6 @@
 </a>
 </p>
 ---
-![github stats](https://github-readme-stats.vercel.app/api?username=MaciejFigat)
+[github stats](https://github-readme-stats.vercel.app/api?username=MaciejFigat)
 
 <img src="https://github-readme-stats.vercel.app/api?username=MaciejFigat" />
