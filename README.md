@@ -8,7 +8,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img alt="styled-components" src="https://img.shields.io/badge/styled-components-DB7093?logo=styled-components&logoColor=white&style=flat" />
-  <img alt="React Router" src="https://img.shields.io/badge/React Router-CA4245?logo=ReactRouter&logoColor=white&style=flat" />
+  <img alt="React Router" src="https://img.shields.io/badge/React Router-CA4245?logo=React&logoColor=white&style=flat" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=flat" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
