@@ -36,7 +36,7 @@
 ---
 #### Stats:
 <a href="https://github-readme-stats.vercel.app/api?username=maciejfigat&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=C0FFEE&custom_title=Maciej+Figat's+GitHub+Stats&show_icons=true&theme=dark&card_width=150&hide=issues,prs,contribs"><img alt="github stats" src="https://img.shields.io/badge/Github Stats-181717?logo=github&logoColor=white&style=flat"/></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=maciejfigat&langs_count=5&&title_color=FD9047&icon_color=FD9047&text_color=C0FFEE&custom_title=Most+Used+Languages&show_icons=true&theme=dark"
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=maciejfigat&langs_count=5&title_color=FD9047&icon_color=FD9047&text_color=C0FFEE&custom_title=Most+Used+Languages&show_icons=true&theme=dark"
 ><img alt="languages" src="https://img.shields.io/badge/Most Used Languages-1877F2?logo=JavaScript&logoColor=white&style=flat"/></a>
 <!-- <img
   src="https://github-readme-stats.vercel.app/api?username=maciejfigat&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=C0FFEE&custom_title=Maciej+Figat's+GitHub+Stats&show_icons=true&theme=dark&card_width=150&hide=issues,prs,contribs"
