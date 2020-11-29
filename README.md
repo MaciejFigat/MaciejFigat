@@ -20,6 +20,7 @@
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat" />
   <img alt="JSONWebTokens" src="https://img.shields.io/badge/JSON Web Tokens-000000?logo=json-web-tokens&logoColor=white&style=flat" />
 </p>
+
 ---
 
 #### You can also find me on the following media:
@@ -31,8 +32,8 @@
 <img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white&style=flat" />
 </a>
 </p>
+
 ---
 
-[github stats](https://github-readme-stats.vercel.app/api?username=MaciejFigat)
+<a href='https://github-readme-stats.vercel.app/api?username=MaciejFigat'><img alt="github stats" src="https://img.shields.io/badge/Github Stats-181717?logo=github&logoColor=white&style=flat" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaciejFigat" />
