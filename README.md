@@ -32,6 +32,7 @@
 </a>
 </p>
 ---
+
 [github stats](https://github-readme-stats.vercel.app/api?username=MaciejFigat)
 
 <img src="https://github-readme-stats.vercel.app/api?username=MaciejFigat" />
