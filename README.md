@@ -38,6 +38,6 @@
 <a href='https://github-readme-stats.vercel.app/api?username=MaciejFigat'><img alt="github stats" src="https://img.shields.io/badge/Github Stats-181717?logo=github&logoColor=white&style=flat" /></a>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=maciejfigat&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=C0FFEE&custom_title=Maciej+Figat's+GitHub+Stats&show_icons=true&theme=dark&card_width=150&hide=issues,prs,contributed"
+  src="https://github-readme-stats.vercel.app/api?username=maciejfigat&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=C0FFEE&custom_title=Maciej+Figat's+GitHub+Stats&show_icons=true&theme=dark&card_width=150&hide=issues,prs,contributedto"
 />
 
