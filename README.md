@@ -1,7 +1,7 @@
 <img src='/longView.JPG' alt='myPoorFeet'/>
 
-#### "Highly capable, surefooted, strong, agile and driven individual." 
-##### _- My friends from BJJ class._
+#### "JavaScript - React, Node.js, Express and MongoDB." 
+
 
 ---
 
