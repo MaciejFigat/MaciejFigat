@@ -1,6 +1,6 @@
 <img src='/longView.JPG' alt='myPoorFeet'/>
 
-#### "JavaScript - React, Node.js, Express and MongoDB." 
+#### "React, Node.js, Express and MongoDB." 
 
 
 ---
