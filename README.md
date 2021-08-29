@@ -1,6 +1,6 @@
 <img src='/longView.JPG' alt='myPoorFeet'/>
 
-#### "React, Node.js, Express and MongoDB." - <img alt="TypeScript" src="https://badgen.net/badge/TS/Strict "/>
+#### <p>"React, Node.js, Express and MongoDB."  <img alt="TypeScript" src="https://badgen.net/badge/TS/Strict "/></p>
 
 
 ---
