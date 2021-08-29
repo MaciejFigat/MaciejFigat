@@ -1,12 +1,13 @@
 <img src='/longView.JPG' alt='myPoorFeet'/>
 
-#### <p>"React, Node.js, Express and MongoDB."  <img alt="TypeScript" src="https://badgen.net/badge/TS/Strict "/></p>
+#### <p>"React, Node.js, Express and MongoDB." </p>
 
 
 ---
 
 #### Technologies and tools used in recent projects:
 <p>
+   <img alt="TypeScript" src="https://badgen.net/badge/TS/Strict "/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img alt="styled-components" src="https://img.shields.io/badge/styled-components-DB7093?logo=styled-components&logoColor=white&style=flat" />
