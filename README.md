@@ -20,7 +20,7 @@
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat" />
   <img alt="JSONWebTokens" src="https://img.shields.io/badge/JSON Web Tokens-000000?logo=json-web-tokens&logoColor=white&style=flat" />
   <img alt="TypeScript" src="https://badgen.net/badge/TS/Strict "/>
-  <img alt="TypeScript" src="https://badges.frapsoft.com/typescript/love/typescript.png?v=101)"/>                                                                                        
+  <img alt="TypeScript" src="https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)"/>                                                                                        
 </p>
 
 ---
