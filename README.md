@@ -19,7 +19,7 @@
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat" />
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat" />
   <img alt="JSONWebTokens" src="https://img.shields.io/badge/JSON Web Tokens-000000?logo=json-web-tokens&logoColor=white&style=flat" />
-  <img alt="TypeScript" src="https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/" />
+  <img alt="TypeScript" src="https://badgen.net/badge/TS/Strict "Strict TypeScript Checked"/>
 </p>
 [![Strict TypeScript Checked](https://badgen.net/badge/TS/Strict "Strict TypeScript Checked")](https://www.typescriptlang.org)
 ---
