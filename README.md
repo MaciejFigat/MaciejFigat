@@ -21,7 +21,7 @@
   <img alt="JSONWebTokens" src="https://img.shields.io/badge/JSON Web Tokens-000000?logo=json-web-tokens&logoColor=white&style=flat" />
   <img alt="TypeScript" src="https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/" />
 </p>
-
+[![Strict TypeScript Checked](https://badgen.net/badge/TS/Strict "Strict TypeScript Checked")](https://www.typescriptlang.org)
 ---
 
 #### You can also find me on the following media:
